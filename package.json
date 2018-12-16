@@ -1,0 +1,17 @@
+{
+  "name": "crawler-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.15",
+    "@types/puppeteer": "^1.11.1",
+    "@types/puppeteer-core": "^1.9.0",
+    "puppeteer-core": "^1.11.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
