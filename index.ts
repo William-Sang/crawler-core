@@ -16,5 +16,5 @@ const puppeteer = require('puppeteer-core');
 
   console.log('Dimensions:', dimensions);
 
-  await browser.close();
+  await browser.close(); 
 })();
